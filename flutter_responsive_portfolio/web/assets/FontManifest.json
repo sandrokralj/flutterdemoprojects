@@ -1,0 +1,18 @@
+[
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "assets": "https://fonts.googleapis.com/icon?family=Material+Icons"
+      }
+    ]
+  },
+  {
+    "family": "GoogleSansRegular",
+    "fonts": [
+      {
+        "asset": "GoogleSansRegular.ttf"
+      }
+    ]
+  }
+]
