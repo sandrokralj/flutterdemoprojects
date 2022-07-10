@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sandro Kralj",
+    "age": "23",
+    "height": "182",
+    "gender": "male",
+    "hair_color": "brown"
+  },
+  {
+    "name": "Kralj",
+    "age": "25",
+    "height": "172",
+    "gender": "male",
+    "hair_color": "brown"
+  },
+  {
+    "name": "Darija",
+    "age": "24",
+    "height": "163",
+    "gender": "female",
+    "hair_color": "brown"
+  },
+  {
+    "name": "Aleksej",
+    "age": "20",
+    "height": "178",
+    "gender": "female",
+    "hair_color": "brown"
+  }
+]
